@@ -1,0 +1,142 @@
+[
+    {
+        "package": "broman",
+        "url": "https://github.com/kbroman/broman"
+    },
+    {
+        "package": "lineup",
+        "url": "https://github.com/kbroman/lineup"
+    },
+    {
+        "package": "lineup2",
+        "url": "https://github.com/kbroman/lineup2"
+    },
+    {
+        "package": "mbmixture",
+        "url": "https://github.com/kbroman/mbmixture"
+    },
+    {
+        "package": "negenes",
+        "url": "https://github.com/kbroman/negenes"
+    },
+    {
+        "package": "qtl",
+        "url": "https://github.com/kbroman/qtl"
+    },
+    {
+        "package": "qtlbook",
+        "url": "https://github.com/kbroman/qtlbook"
+    },
+    {
+        "package": "qtlcharts",
+        "url": "https://github.com/kbroman/qtlcharts"
+    },
+    {
+        "package": "regress",
+        "url": "https://github.com/kbroman/regress"
+    },
+    {
+        "package": "simcross",
+        "url": "https://github.com/kbroman/simcross"
+    },
+    {
+        "package": "xoi",
+        "url": "https://github.com/kbroman/xoi"
+    },
+    {
+        "package": "aRxiv",
+        "url": "https://github.com/ropensci/aRxiv"
+    },
+    {
+        "package": "ropensci",
+        "url": "https://github.com/ropensci/chromer"
+    },
+    {
+        "package": "qtl2",
+        "url": "https://github.com/rqtl/qtl2"
+    },
+    {
+        "package": "qtl2convert",
+        "url": "https://github.com/rqtl/qtl2convert"
+    },
+    {
+        "package": "qtl2fst",
+        "url": "https://github.com/rqtl/qtl2fst"
+    },
+    {
+        "package": "mmconvert",
+        "url": "https://github.com/rqtl/mmconvert"
+    },
+    {
+        "package": "xoiGBS",
+        "url": "https://github.com/kbroman/xoiGBS"
+    },
+    {
+        "package": "detectPVC",
+        "url": "https://github.com/kbroman/detectPVC"
+    },
+    {
+        "package": "qtl2bioc",
+        "url": "https://github.com/rqtl/qtl2bioc"
+    },
+    {
+        "package": "qtl2cl",
+        "url": "https://github.com/rqtl/qtl2cl"
+    },
+    {
+        "package": "qtl2browse",
+        "url": "https://github.com/rqtl/qtl2browse"
+    },
+    {
+        "package": "GNapi",
+        "url": "https://github.com/rqtl/GNapi"
+    },
+    {
+        "package": "GWASapi",
+        "url": "https://github.com/rqtl/GWASapi"
+    },
+    {
+        "package": "fingers",
+        "url": "https://github.com/kbroman/fingers"
+    },
+    {
+        "package": "geesibsor",
+        "url": "https://github.com/kbroman/geesibsor"
+    },
+    {
+        "package": "labstat",
+        "url": "https://github.com/kbroman/labstat"
+    },
+    {
+        "package": "npem",
+        "url": "https://github.com/kbroman/npem"
+    },
+    {
+        "package": "mygmailR",
+        "url": "https://github.com/kbroman/mygmailR"
+    },
+    {
+        "package": "ricalc",
+        "url": "https://github.com/kbroman/ricalc"
+    },
+    {
+        "package": "qtlsim",
+        "url": "https://github.com/kbroman/qtlsim"
+    },
+    {
+        "package": "miner",
+        "url": "https://github.com/kbroman/miner"
+    },
+    {
+        "package": "craft",
+        "url": "https://github.com/kbroman/craft"
+    },
+    {
+        "package": "circplot",
+        "url": "https://github.com/kbroman/circplot"
+    },
+    {
+        "package": "lmmlite",
+        "url": "https://github.com/kbroman/lmmlite"
+    }
+]
