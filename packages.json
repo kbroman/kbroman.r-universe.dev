@@ -112,10 +112,6 @@
         "url": "https://github.com/kbroman/npem"
     },
     {
-        "package": "mygmailR",
-        "url": "https://github.com/kbroman/mygmailR"
-    },
-    {
         "package": "ricalc",
         "url": "https://github.com/kbroman/ricalc"
     },
