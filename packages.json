@@ -52,16 +52,8 @@
         "url": "https://github.com/kbroman/detectPVC"
     },
     {
-        "package": "qtl2bioc",
-        "url": "https://github.com/rqtl/qtl2bioc"
-    },
-    {
         "package": "qtl2cl",
         "url": "https://github.com/rqtl/qtl2cl"
-    },
-    {
-        "package": "qtl2browse",
-        "url": "https://github.com/rqtl/qtl2browse"
     },
     {
         "package": "GNapi",
