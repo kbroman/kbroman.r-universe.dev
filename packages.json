@@ -44,30 +44,6 @@
         "url": "https://github.com/kbroman/xoi"
     },
     {
-        "package": "aRxiv",
-        "url": "https://github.com/ropensci/aRxiv"
-    },
-    {
-        "package": "chromer",
-        "url": "https://github.com/ropensci/chromer"
-    },
-    {
-        "package": "qtl2",
-        "url": "https://github.com/rqtl/qtl2"
-    },
-    {
-        "package": "qtl2convert",
-        "url": "https://github.com/rqtl/qtl2convert"
-    },
-    {
-        "package": "qtl2fst",
-        "url": "https://github.com/rqtl/qtl2fst"
-    },
-    {
-        "package": "mmconvert",
-        "url": "https://github.com/rqtl/mmconvert"
-    },
-    {
         "package": "xoiGBS",
         "url": "https://github.com/kbroman/xoiGBS"
     },
