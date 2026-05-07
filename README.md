@@ -2,5 +2,5 @@
 
 This repository contains a `packages.json` file with the packages to be
 included at <https://kbroman.r-universe.dev>, so that it will include
-more not just the [CRAN](https://cran.r-project.org) packages that I
-maintain, but all of my R packages.
+all of my R packages, and
+not just the ones on [CRAN](https://cran.r-project.org).
