@@ -102,5 +102,10 @@
     {
         "package": "lmmlite",
         "url": "https://github.com/kbroman/lmmlite"
+    },
+    {
+        "package": "Rmaze",
+        "url": "https://github.com/kbroman/Rmaze"
     }
+
 ]
